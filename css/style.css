@@ -38,9 +38,14 @@ body {
 #description p {
 color: grey;
 }
+
+#description img {
+    max-width: 90%;
+}
  
 #action img {
     margin: 1.31em 0 1.31em 0;
+    max-width: 10%;
 }
 
 footer {
