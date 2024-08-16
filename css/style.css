@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 1.31em;
+    margin: 0.5em;
+  }
+
+  h1 {
+    font-size: 3.125em;
+    font-weight: normal;
+    margin: 0.67em 0 0.67em 0;
+  }
+
+  h2 {
+    font-size: 2.23em;
+    font-weight: normal;
+    margin: 0.67em 0 0.67em 0;
+  }
+
+  p {
+ 
+    margin: 1em 0 1em 0;
+  }
+
+.cta {
+    display: block;
+    
+}
+
+.cta a {
+    color: Aquamarine;
+    font-size: 1rem;
+    text-decoration: underline; 
+}
+
+#description p {
+color: grey;
+}
+   /* 
+
+*/
+
+footer {
+    color: gray;
+    text-align: right;
+}
