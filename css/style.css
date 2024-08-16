@@ -1,5 +1,3 @@
-
-
 body {
     font-family: "Verdana", sans-serif;
     text-align: center;
@@ -40,11 +38,19 @@ body {
 #description p {
 color: grey;
 }
-   /* 
-
-*/
+ 
+#action img {
+    margin: 1.31em 0 1.31em 0;
+}
 
 footer {
     color: gray;
     text-align: right;
 }
+
+
+
+
+  /* 
+
+*/
